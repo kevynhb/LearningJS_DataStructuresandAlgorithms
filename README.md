@@ -2,9 +2,10 @@ Estudando Estrutura de dados e algoritmos atráves do livro "Estrutura de dados 
 
 Comando para rodar server: 
 ```
-sudo npm install http-server -g &&
+npm install http-server -g &&
 http-server
 ```
+Documentação TS: https://www.typescriptlang.org/docs/
 
 
 ## Learning JavaScript Data Structures and Algorithms - Third Edition
