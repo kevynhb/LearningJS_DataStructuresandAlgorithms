@@ -1,9 +1,9 @@
 Estudando Estrutura de dados e algoritmos atráves do livro "Estrutura de dados e algortmos com JavaScript - Loiane groner - 2°Edição."
 
 Comando para rodar server: 
-``` npm intall http-server -g &&
-    sudo npm install http-server -g &&
-    http-server
+```
+sudo npm install http-server -g &&
+http-server
 ```
 
 
